@@ -2,7 +2,7 @@
 // @name                Instagram Download Button
 // @name:zh-TW          Instagram 下載器
 // @namespace           https://github.com/y252328/Instagram_Download_Button
-// @version             1.4.2
+// @version             2.0
 // @compatible          chrome
 // @compatible          firefox
 // @compatible          opera
@@ -11,6 +11,8 @@
 // @description:zh-TW   在Instagram頁面加入下載按鈕與開啟按鈕，透過這些按鈕可以下載或開啟大頭貼與貼文、限時動態、Highlight中的照片或影片
 // @author              ZhiYu
 // @match               https://www.instagram.com/*
+// @updateURL   	https://github.com/krystiangorecki/Instagram_Download_Button/raw/master/instagram-dl.user.js
+// @downloadURL 	https://github.com/krystiangorecki/Instagram_Download_Button/raw/master/instagram-dl.user.js
 // @grant               none
 // @license             MIT
 // ==/UserScript==
